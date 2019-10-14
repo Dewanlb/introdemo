@@ -1,0 +1,14 @@
+    Git Terminology
+    Repository "Repo" - Where Git stores snapshots of the project over time
+    Local Repository Where git tracks files in a folder on your PC
+    Remote Repository A copy of your project that you setup on GitHub.com
+    Working Directory - File Directory or Folder where project files are actively worked on.
+    Commit - A snapshot of the entire project at a point in time
+    Staging Area - Where changes are queued up to be committed 
+   (Eg: "git" "add" "readme.md")
+    Git init
+   Git Add, sends files to staging Area
+   Commit-m the files to update them.
+   
+To exit the VIM
+"ESC" ----> ":"-----> "x"-----> "Enter"
