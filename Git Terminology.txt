@@ -12,3 +12,9 @@
    
 To exit the VIM
 "ESC" ----> ":"-----> "x"-----> "Enter"
+".gitignore" - List of files that should be ignored. HINT: ".gitignore" Get's committed
+git branch -List Branches
+branch "Name" - Creates a branch
+git checkout "Branch Name" -Swtich Branches
+checkout -b "Name" - Create and Swtich
+branch -d "Name" delete branch
